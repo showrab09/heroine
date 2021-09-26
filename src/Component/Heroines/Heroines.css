@@ -1,0 +1,10 @@
+.main{
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    background-color: lightcyan;
+}
+.heroine-info{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    
+}
